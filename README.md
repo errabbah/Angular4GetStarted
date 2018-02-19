@@ -1,4 +1,4 @@
-# Angular4GetStarted
+# Angular 4 GetStarted
 Angular 4 Get Started
 <div class="reader-article-content"><h3>Description de la formation</h3> 
 <p>Cette formation est consacré au développement frontend avec le framework Angular 4 et adressée à tous les niveaux des développeurs débutant intermédiaire et Avancé. Nous allons commencer à zéro et apprendre à créer un environnement de développement pour Angular 4 CLI, puis en passe à apprendre tous les fondamentaux et les concepts de base de Angular et TypeScript, après nous allons commencer par un projet de base</p> 
